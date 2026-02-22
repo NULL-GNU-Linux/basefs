@@ -6,4 +6,4 @@ This package should NOT be used outside of `null.basefs`, unless you know what y
 You can look at the `null.basefs` package manifest to see where files go.
 
 ## Licence
-As described by [the LICENSE file] and `pkglet I null.basefs`, it's licensed under The Unlicense.
+As described by [the LICENSE file](LICENSE) and `pkglet I null.basefs`, it's licensed under The Unlicense.
