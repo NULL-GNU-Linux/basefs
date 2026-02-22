@@ -1,0 +1,11 @@
+NAME="NULL"
+PRETTY_NAME="NULL GNU/Linux"
+ID=nullgnulinux
+BUILD_ID=1
+ANSI_COLOR="38;2;180;180;180"
+HOME_URL="https://null.obsidianos.xyz"
+DOCUMENTATION_URL="https://null.obsidianos.xyz/pkglet"
+SUPPORT_URL="https://github.com/orgs/NULL-GNU-Linux/discussions"
+BUG_REPORT_URL="https://github.com/orgs/NULL-GNU-Linux/discussions"
+PRIVACY_POLICY_URL="no-data-collection-at-all"
+LOGO=nullgnulinux
